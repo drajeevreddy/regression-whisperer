@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/banner.png" alt="Regression Whisperer" width="100%" />
+</p>
+
 # Regression Whisperer
 
 AI-powered performance regression detection for pull requests. Paste a GitHub repo link, select a PR, and five AI agents analyze it for N+1 queries, memory leaks, latency spikes, and more.
